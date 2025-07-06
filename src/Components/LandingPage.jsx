@@ -130,7 +130,7 @@ const handleSubmit = () => {
 
         <Modal show={show} onHide={() => {}} backdrop="static" centered>
           <Modal.Header>
-            <Modal.Title>Welcome! What's your sweet name?</Modal.Title>
+            <Modal.Title>Welcome! Enter your name?</Modal.Title>
           </Modal.Header>
           <Modal.Body>
             <Form.Control
