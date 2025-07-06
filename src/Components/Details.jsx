@@ -153,6 +153,15 @@ const Details = () => {
             <Button   className='all_btn' onClick={() => setShowFullDetail(!showFullDetail)}>
               {showFullDetail ? 'Show Less' : 'More Info'}
             </Button>
+            <Button
+            onClick={() => {
+            window.location.href = 'mailto:samuelreegan372@gmail.com';
+            }}
+        className='all_btn'
+        >
+  hire
+</Button>
+
           </div>
         </Col>
 
