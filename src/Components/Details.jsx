@@ -159,7 +159,7 @@ const Details = () => {
             }}
         className='all_btn'
         >
-  hire
+  Hire Me
 </Button>
 
           </div>
