@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "../../FreelanceAndDeveloper/css/component/GitContribution.css";
+import "./GitContribution.css";
 
 const GitContribution = () => {
   const username = "SAMUVELREEGAN";
