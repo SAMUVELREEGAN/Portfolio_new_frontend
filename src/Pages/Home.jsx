@@ -9,6 +9,7 @@ import MyProject from "../Components/MyProject";
 import Answer from "../Components/Answer";
 import MyExperience from "../Components/MyExperience";
 import Contact from "../Components/Contact";
+import Contact from "../Components/GitContribution.jsx;
 
 const Home = () => {
   return (
@@ -25,6 +26,7 @@ const Home = () => {
       <Education />
       <div id="skills">
         <Skills />
+        <GitContribution.jsx />
       </div>
       <div id="projects">
         <MyProject />
