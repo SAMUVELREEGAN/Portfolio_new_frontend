@@ -27,7 +27,10 @@ const Home = () => {
       <div id="skills">
         <Skills />
       </div>
-       <GitContribution />
+      <div id="gitContribution">
+          <GitContribution />
+      </div>
+    
       <div id="projects">
         <MyProject />
       </div>
