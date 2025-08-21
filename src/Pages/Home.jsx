@@ -9,7 +9,7 @@ import MyProject from "../Components/MyProject";
 import Answer from "../Components/Answer";
 import MyExperience from "../Components/MyExperience";
 import Contact from "../Components/Contact";
-import GitContribution from "../Components/GitContribution;
+import GitContribution from "../Components/GitContribution";
 
 const Home = () => {
   return (
